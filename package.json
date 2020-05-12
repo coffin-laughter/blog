@@ -1,0 +1,37 @@
+{
+  "name": "coffin_laughter.github.io",
+  "title": "coffin's laughter Blog",
+  "author": "coffin's laughter",
+  "license": "MIT",
+  "version": "1.0.0",
+  "homepage": "http://coffi-laughter.github.io",
+  "keywords": [
+    "note",
+    "blog",
+    "codes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coffin-laughter/coffin-laughter.github.io"
+  },
+  "bugs": "https://github.com/coffin-laughter/coffin-laughter.github.io/issues",
+  "description": "",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@iktakahiro/markdown-it-katex": "^3.1.0",
+    "@vuepress-reco/vuepress-plugin-extract-code": "^1.0.3",
+    "@vuepress/plugin-medium-zoom": "1.2.0",
+    "@vuepress/plugin-pwa": "^1.2.0",
+    "markdown-it": "^10.0.0",
+    "markdown-it-mark": "^3.0.0",
+    "markdown-it-task-lists": "^2.1.1",
+    "markdown-it-vuepress-code-snippet-enhanced": "^1.0.1",
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-boxx": "0.0.7",
+    "vuepress-plugin-ribbon": "^1.0.0",
+    "vuepress-theme-reco": "^1.2.2"
+  }
+}
