@@ -16,6 +16,8 @@ echo 'blog.wbloc.com' > CNAME
 git init
 git add -A
 git commit -m 'deploy'
+git remote add origin git@github.com:coffin-laughter/coffin-laughter.github.io.git
+
 
 # 如果发布到 https://<USERNAME>.github.io
 git push -f git@github.com:coffin-laughter/coffin-laughter.github.io.git master
