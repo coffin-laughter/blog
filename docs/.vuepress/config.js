@@ -80,7 +80,7 @@ module.exports = {
         link: '/note/前端知识体系汇总.md',
       },
       { text: '时间线', link: '/timeLine/', icon: 'reco-date' },
-      { text: 'GitHub', link: 'https://github.com/coffin-laughter/coffin_laughter.github.io', icon: 'reco-github' },
+      { text: 'GitHub', link: 'https://github.com/coffin-laughter/blog', icon: 'reco-github' },
     ],
     // 博客设置
     blogConfig: {
