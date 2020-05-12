@@ -1,6 +1,5 @@
 #!/usr/bin/env sh
 # 现已通过GitHub Actions自动部署，提交只需 'git push' 即可
-
 # 确保脚本抛出遇到的错误
 set -e
 
