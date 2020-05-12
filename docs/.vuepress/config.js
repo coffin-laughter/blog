@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',
   title: 'coffin\'s laughter',
-  description: '苦非苦,乐非乐，只是一时的执念而已!',
+  description: '苦非苦,乐非乐,只是一时的执念而已!',
   evergreen: true,
   head: [
     ['link', { rel: 'icon', href: '/icons/favicon.ico' }],
@@ -92,7 +92,7 @@ module.exports = {
     valineConfig: {
       appId: 'fGlHnzqDtqV9gly96mYDpjmK-gzGzoHsz', // your appId
       appKey: '5P1oe1uOLisNaOfQWxCcTo2C',
-      placeholder: '苦非苦,乐非乐，只是一时的执念而已！',
+      placeholder: '苦非苦,乐非乐,只是一时的执念而已！',
       notify: true,
       recordIP: true,
     },
