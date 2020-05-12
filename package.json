@@ -4,7 +4,7 @@
   "author": "coffin's laughter",
   "license": "MIT",
   "version": "1.0.0",
-  "homepage": "http://coffi-laughter.github.io",
+  "homepage": "https://blog.wbloc.com",
   "keywords": [
     "note",
     "blog",
@@ -12,9 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/coffin-laughter/coffin-laughter.github.io"
+    "url": "https://github.com/coffin-laughter/blog"
   },
-  "bugs": "https://github.com/coffin-laughter/coffin-laughter.github.io/issues",
+  "bugs": "https://github.com/coffin-laughter/blog/issues",
   "description": "",
   "scripts": {
     "dev": "vuepress dev docs",
