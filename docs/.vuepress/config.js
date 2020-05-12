@@ -3,7 +3,6 @@ module.exports = {
   title: 'coffin\'s laughter',
   description: '苦非苦,乐非乐，只是一时的执念而已!',
   evergreen: true,
-  dest: 'dist',
   head: [
     ['link', { rel: 'icon', href: '/icons/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
