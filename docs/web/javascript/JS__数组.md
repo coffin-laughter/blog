@@ -5,6 +5,8 @@ publish: true
 sticky: 1
 categories:
   - 前端开发
+tags:
+  - 原生JS
 ---
 
 <Boxx/>

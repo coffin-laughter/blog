@@ -4,7 +4,8 @@ date: 2020-04-26 07:56:43
 publish: true
 categories:
   - 前端开发
-tags: 原生JS
+tags:
+  - 原生JS
 ---
 
 <Boxx/>
